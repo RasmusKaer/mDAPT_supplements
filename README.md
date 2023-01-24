@@ -1,4 +1,5 @@
 # mDAPT: Multilingual Domain Adaptive Pretraining in a Single Model
+Link to paper: https://aclanthology.org/2021.findings-emnlp.290/
 
 Supplements for the paper in the form of CPT data, task and pretrained models.
 
